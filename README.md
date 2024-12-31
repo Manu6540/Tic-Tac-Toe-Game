@@ -1,4 +1,5 @@
-# Tic-Tac-Toe-Game
+# Tic-Tac-Toe-Game 
+
 This is my first Git Repository. 
 <br>
-Author - ManMohan  
+Author - ManMohan (Bandaru)
